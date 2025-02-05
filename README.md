@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project is a **Power BI dashboard** for analyzing **bank loan applications**. The dataset is stored in **MySQL**, and the dashboard is created by connecting **Power BI** to the database. The project also includes custom **DAX measures** to enhance insights.
 
+---
+
 ## 📊 Problem Statement
 The goal of this project is to analyze and monitor various **loan performance metrics** to help banks make data-driven decisions. Key objectives include:
 - Tracking **total loan applications** and monitoring **Month-to-Date (MTD) & Month-over-Month (MoM) changes**.
@@ -10,6 +12,8 @@ The goal of this project is to analyze and monitor various **loan performance me
 - Calculating **average interest rates** and **debt-to-income (DTI) ratios**.
 - Categorizing **good vs. bad loans** with respective funding and repayment metrics.
 - Providing a **grid view of loan status** to monitor key indicators.
+
+---
 
 ## 📈 Dashboards
 ### 1️⃣ Summary Dashboard
@@ -29,28 +33,22 @@ The goal of this project is to analyze and monitor various **loan performance me
 - **Comprehensive Loan Data View**: Offers a detailed, user-friendly interface.
 - **Holistic Metrics Display**: Includes borrower profiles, loan performance, and funding status.
 
+---
+
 ## 🛠️ Technology Stack
 - **Power BI**: For data visualization and reporting.
 - **MySQL**: For storing and managing the dataset.
 - **DAX**: For custom calculations and insights.
 
+---
+
 ## 🚀 How to Use
-```markdown
 1. **Clone the Repository**:
-   ```sh
+   ```bash
    git clone https://github.com/your-username/your-repo-name.git
    ```
-2. **Connect to MySQL**: Ensure your MySQL database is running and contains the required loan dataset.
-3. **Open Power BI**: Load the `.pbix` file and connect it to your MySQL instance.
-4. **Explore Dashboards**: Analyze the loan data using the various dashboards.
-```
+2. **Connect to MySQL: Ensure your MySQL database is running and contains the required loan dataset.**
 
-## 📷 Screenshots
-![OVERVIEW](https://github.com/user-attachments/assets/26adc1d8-14d1-4eb6-9884-de2ca8079ca0)
-![SUMMARY](https://github.com/user-attachments/assets/3c0948c6-3751-4714-b6a3-a0e6a41360a6)
-![DETAILS](https://github.com/user-attachments/assets/7f36b710-6c0a-4e44-9215-ca98413f8fca)
+3. **Open Power BI: Load the .pbix file and connect it to your MySQL instance.**
 
-
-## 📩 Contact
-For any queries, reach out via **[abhishekpandit7903@gmail.com]** or open an issue in this repository.
-
+4. **Explore Dashboards: Analyze the loan data using the various dashboards.**
