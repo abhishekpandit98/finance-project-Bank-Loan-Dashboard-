@@ -46,12 +46,10 @@ The goal of this project is to analyze and monitor various **loan performance me
 ```
 
 ## 📷 Screenshots
-(Add images of your dashboards here to help users understand the visuals.)
+![Dashboard Screenshot](OVERVIEW.png)
+![Dashboard Screenshot](SUMMARY.png)
+![Dashboard Screenshot](DETAILS.png)
 
 ## 📩 Contact
-For any queries, reach out via **[your email]** or open an issue in this repository.
-
----
-
-✅ **Feel free to fork and contribute to this project!** 🚀
+For any queries, reach out via **[abhishekpandit7903@gmail.com]** or open an issue in this repository.
 
