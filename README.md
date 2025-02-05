@@ -52,3 +52,9 @@ The goal of this project is to analyze and monitor various **loan performance me
 3. **Open Power BI: Load the .pbix file and connect it to your MySQL instance.**
 
 4. **Explore Dashboards: Analyze the loan data using the various dashboards.**
+
+## 📷 Screenshots  
+![Dashboard Overview](https://raw.githubusercontent.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/main/OVERVIEW.png)  
+![Dashboard Summary](https://raw.githubusercontent.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/main/SUMMARY.png)  
+![Dashboard Details](https://raw.githubusercontent.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/main/DETAILS.png)  
+
