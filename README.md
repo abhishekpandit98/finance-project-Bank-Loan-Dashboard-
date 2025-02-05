@@ -46,9 +46,9 @@ The goal of this project is to analyze and monitor various **loan performance me
 ```
 
 ## 📷 Screenshots
-![Dashboard Screenshot]([OVERVIEW.png](https://github.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/blob/main/OVERVIEW.png))
-![Dashboard Screenshot][(SUMMARY.png](https://github.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/blob/main/SUMMARY.png))
-![Dashboard Screenshot]([DETAILS.png](https://github.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/blob/main/DETAILS.png))
+![Dashboard Screenshot](https://github.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/blob/main/OVERVIEW.png))
+![Dashboard Screenshot](https://github.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/blob/main/SUMMARY.png))
+![Dashboard Screenshot](https://github.com/abhishekpandit98/finance-project-Bank-Loan-Dashboard-/blob/main/DETAILS.png))
 
 ## 📩 Contact
 For any queries, reach out via **[abhishekpandit7903@gmail.com]** or open an issue in this repository.
